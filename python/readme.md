@@ -1,6 +1,6 @@
 # 🐍 Python Basics
 
-This folder contains beginner-level Python programs covering **core programming concepts** such as variables, datatypes, conditions, loops, functions, and data structures. Each file is self-contained and includes comments to explain what each part does.
+This folder contains beginner-level Python programs covering **core programming concepts** such as variables, datatypes, conditions, loops, functions, and data structures. Each file is self-contained and includes comments to explain what each part does
 
 ---
 
