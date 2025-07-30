@@ -25,3 +25,14 @@ To help beginners (and myself) build a solid foundation in programming by learni
 - HTML 🌐
 - CSS 🎨
 - Java ☕
+
+
+
+
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/language-HTML-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/language-CSS-purple.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Java](https://img.shields.io/badge/language-Java-red.svg)](https://www.java.com/)
+[![Repo Size](https://img.shields.io/github/repo-size/san-tech122/basic-programming-concepts)](https://github.com/San-tech122/basic-programming-concepts)
+[![Last Commit](https://img.shields.io/github/last-commit/San-tech122/basic-programming-concepts)](https://github.com/San-tech122/basic-programming-concepts)
