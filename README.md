@@ -36,3 +36,13 @@ To help beginners (and myself) build a solid foundation in programming by learni
 [![Java](https://img.shields.io/badge/language-Java-red.svg)](https://www.java.com/)
 [![Repo Size](https://img.shields.io/github/repo-size/san-tech122/basic-programming-concepts)](https://github.com/San-tech122/basic-programming-concepts)
 [![Last Commit](https://img.shields.io/github/last-commit/San-tech122/basic-programming-concepts)](https://github.com/San-tech122/basic-programming-concepts)
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=san-tech122&color=blue)
+![Repos](https://badges.pufler.dev/repos/san-tech122)
+![Languages](https://badges.pufler.dev/languages/san-tech122)
+![Commits](https://badges.pufler.dev/commits/monthly/san-tech122)
+
+
