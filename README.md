@@ -39,7 +39,6 @@ To help beginners (and myself) build a solid foundation in programming by learni
 
 
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=san-tech122&color=blue)
 ![Repos](https://badges.pufler.dev/repos/san-tech122)
 ![Languages](https://badges.pufler.dev/languages/san-tech122)
