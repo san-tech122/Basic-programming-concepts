@@ -1,31 +1,49 @@
-🐍 Python Projects
+# 🐍 Python Projects by Sanjay
 
-Welcome to the Python Projects folder!
-This section contains a collection of beginner to intermediate-level Python projects created to reinforce core programming concepts such as:
+Welcome to my collection of beginner-to-intermediate Python projects!  
+This folder includes real-world programs built using core programming concepts such as:
 
-✅ Variables and Data Types
+- ✅ Variables and Data Types
+- ✅ Functions and Loops
+- ✅ Conditional Logic
+- ✅ File Handling
+- ✅ Dictionaries and User Input
+- ✅ Project-based Problem Solving
 
-✅ Conditional Statements and Loops
-
-✅ Functions and Modular Code
-
-✅ File I/O and Data Handling
-
-✅ Lists, Dictionaries, and Sets
-
-
-Each project is self-contained and aims to solve real-world problems using basic to advanced Python techniques. These are great for practice, building logic, and adding to your developer portfolio.
-
+Each file is a **self-contained project** demonstrating practical Python skills.
 
 ---
 
-📂 Project List (examples you can update later)
+## 📁 Projects List
 
-calculator.py – A simple arithmetic calculator using functions
+### 🔢 1. `calculator.py`
+> A simple command-line calculator that performs addition, subtraction, multiplication, and division.  
+> Uses functions, user input, and error handling to deliver basic operations in a loop.
 
-login_system.py – Username/password system using dictionaries
+### 🔐 2. `login_system.py`
+> Simulates a user login/signup flow using Python dictionaries.  
+> Includes username/password checking, signup logic, and input handling.
 
-todolist.py – Task manager with file saving feature
+### 📝 3. `todolist.py`
+> A task management app that lets users add, view, and store tasks in a file.  
+> Demonstrates file I/O operations, dynamic lists, and user-friendly loops.
 
-skill_matcher.py – A mini version of SkillBarter logic using lists and conditionals
+### 🔁 4. `skill_matcher.py`
+> A mini version of the SkillBarter app idea.  
+> Matches users based on what skills they offer and what skills they want in return.  
+> Uses dictionary-based logic and conditional matching.
+
+---
+
+## 🚀 Next Steps
+
+Stay tuned for:
+- GUI-based Python projects using Tkinter
+- Mini-apps for file encryption, quiz games, and more
+
+---
+
+### 📌 About Me
+
+I'm Sanjay, a B.Sc Computer Science student passionate about building real-world projects, automating workflows, and exploring AI & backend systems. This repository reflects my journey of mastering Python and preparing for future opportunities including Oxford and beyond.
 
